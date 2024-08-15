@@ -8,17 +8,17 @@ global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
-global.ownernumber = '255616030473'  //creator number
-global.ownername = 'Prexzy Tech' //owner name
-global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254792936892'  //creator number
+global.ownername = 'MR PEYWA' //owner name
+global.botname = 'CODE IT ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.author = 'PEYWA👑\n\nContact: +263717750825'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "PREXZYVILLA."
+global.wm = "MR PEYWA."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
@@ -28,9 +28,9 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autoread = true //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = false //auto view status/story
